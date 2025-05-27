@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-applications>
+    <web-application>
+        <name>@string/app_name</name>
+        <description>@string/app_description</description>
+        <protocol>
+            <scheme>http</scheme>
+            <scheme>https</scheme>
+            <scheme>about</scheme>
+            <scheme>javascript</scheme>
+        </protocol>
+        <mime-type>text/html</mime-type>
+        <mime-type>application/xhtml+xml</mime-type>
+    </web-application>
+</web-applications>

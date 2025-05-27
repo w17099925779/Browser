@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="text_primary_light">#FF000000</color>
+  <color name="text_secondary_light">#FF444444</color>
+  <color name="text_hint_light">#FF888888</color>
+</resources>
