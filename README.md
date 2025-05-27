@@ -1,4 +1,6 @@
-# Browser
+# Browse
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).r
 ## 为什么选择我们的浏览器
   我们的浏览器完全开源,完全前端,不必担心隐私问题,还有可能帮助你开发一个更好的浏览器.
 ## 不推荐直接使用浏览器
