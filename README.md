@@ -8,6 +8,6 @@
 ## 如何使用源码
 ### 1.克隆
 在终端执行
-`git clone git@github.com:w17099925779/Browser.git`
+```git clone git@github.com:w17099925779/Browser.git```
 ### 2.使用
 打开文件管理即可对我们的浏览器源码进行修改参考使用.
